@@ -22,7 +22,6 @@
 ## 📫 **Connect with me**
 
 - **Telegram:** [@serkurakin](https://t.me/serkurakin)
-- 
 - **Email:** ksa18@list.ru
 
 <!--
