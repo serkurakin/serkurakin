@@ -1,11 +1,11 @@
 
-# 👋 Hi, I'm Sergei | Data Scientist / ML Engineer
+# Hi, I'm Sergei | Data Scientist / ML Engineer
 
-**Transitioning from fundamental science (physics) to Data Science** with 4+ years of experience in analyzing complex experimental data from megascience facilities. Over the past year, I have focused on applying Machine Learning and Deep Learning methods to automate research tasks and build predictive models.
+Data Scientist with 5+ years of experience in fundamental physics and the analysis of complex experimental data from megascience facilities. Over the past year, I have focused on applying Machine Learning and Deep Learning methods to automate research tasks and build predictive models.
 
 ---
 
-## 🛠️ **Technical Stack**
+## **Technical Stack**
 
 **Languages & Core:** `Python` `SQL`
 
@@ -19,7 +19,7 @@
 
 ---
 
-## 📫 **Connect with me**
+## **Connect with me**
 
 - **Telegram:** [@serkurakin](https://t.me/serkurakin)
 - **Email:** ksa18@list.ru
