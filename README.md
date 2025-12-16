@@ -21,11 +21,6 @@ Data Scientist with 5+ years of experience in fundamental physics and the analys
 
 ## 🗂️ Projects Portfolio
 
-### 📊 Data Analysis
-*   **[Исследование объявлений о продаже квартир](https://github.com/serkurakin/sale_apartments)** — Исследовательский анализ данных.
-*   **[Исследование поездок пользователей на электросамокатах](https://github.com/serkurakin/rent_scooters)** — Анализ данных (EDA), статистический анализ.
-*   **[Анализ продаж компьютерных игр](https://github.com/serkurakin/computer_games)** — EDA.
-
 ### ⚙️ Classical Machine Learning
 *   **[Сервис по оценке стоимости подержанных автомобилей](https://github.com/serkurakin/car_prices_prediction)** — End-to-end пайплайн с FastAPI, Streamlit и Docker.
 *   **[Веб-приложение по определению стадии фиброза печени](https://github.com/serkurakin/liver_fibrosis_stage)** — End-to-end пайплайн с FastAPI, Streamlit и Docker.
@@ -47,6 +42,10 @@ Data Scientist with 5+ years of experience in fundamental physics and the analys
 ### 📝 Natural Language Processing
 *   **[Поиск токсичных комментариев с помощью BERT](https://github.com/serkurakin/toxic_comments__BERT)** —  EDA, BERT, ML-pipline, XGBoost.
 
+### 📊 Data Analysis
+*   **[Исследование объявлений о продаже квартир](https://github.com/serkurakin/sale_apartments)** — Исследовательский анализ данных.
+*   **[Исследование поездок пользователей на электросамокатах](https://github.com/serkurakin/rent_scooters)** — Анализ данных (EDA), статистический анализ.
+*   **[Анализ продаж компьютерных игр](https://github.com/serkurakin/computer_games)** — EDA.
 
 ## **Connect with me**
 
