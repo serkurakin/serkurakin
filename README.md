@@ -25,7 +25,7 @@ Data Scientist with 5+ years of experience in fundamental physics and the analys
 *   **[Сервис по оценке стоимости подержанных автомобилей](https://github.com/serkurakin/car_prices_prediction)** — End-to-end пайплайн с FastAPI, Streamlit и Docker.
 *   **[Веб-приложение по определению стадии фиброза печени](https://github.com/serkurakin/liver_fibrosis_stage)** — End-to-end пайплайн с FastAPI, Streamlit и Docker.
 *   **[Определение температур производственных процессов](https://github.com/serkurakin/alloy-temperature)** — EDA, ML-пайплайн, SHAP, CatBoost.
-*   **[Определение удоя коров и вкуса молока](https://github.com/serkurakin/cows_milk__linreg_logreg)** — EDA, линейная и логистическая регрессии.
+*   **[Определение удоя коров и вкуса молока](https://github.com/serkurakin/cows_milk__linreg_logreg)** — EDA, линейная и логистическая регрессии, пороги классификации.
 *   **[Предсказание удовлетворенности и увольнений сотрудников компании](https://github.com/serkurakin/employee_satisfaction)** — EDA, ML-пайплайн, SHAP.
 *   **[Выбор локации для разработок нефтяных скважин](https://github.com/serkurakin/oil_wells__bootstrap_linreg)** — EDA, линейная регрессия, bootstrap.
 *   **[Прогнозирование заказов такси](https://github.com/serkurakin/taxi_orders__timeseries)** — Временные ряды, ML-пайплайн, LightGBM.
@@ -44,7 +44,7 @@ Data Scientist with 5+ years of experience in fundamental physics and the analys
 
 ### 📊 Data Analysis
 *   **[Исследование объявлений о продаже квартир](https://github.com/serkurakin/sale_apartments)** — Исследовательский анализ данных.
-*   **[Исследование поездок пользователей на электросамокатах](https://github.com/serkurakin/rent_scooters)** — Анализ данных (EDA), статистический анализ.
+*   **[Исследование поездок пользователей на электросамокатах](https://github.com/serkurakin/rent_scooters)** — Анализ данных, статистические гипотезы.
 *   **[Анализ продаж компьютерных игр](https://github.com/serkurakin/computer_games)** — EDA.
 
 ## **Connect with me**
