@@ -40,7 +40,7 @@ Data Scientist with 5+ years of experience in fundamental physics and the analys
 *   **[Определение возраста человека по фотографии](https://github.com/serkurakin/age-of-people__CV)** — Архитектура CNN, ResNet.
 
 ### 📝 Natural Language Processing
-*   **[Поиск токсичных комментариев с помощью BERT](https://github.com/serkurakin/toxic_comments__BERT)** —  EDA, BERT, ML-pipline, XGBoost.
+*   **[Поиск токсичных комментариев с помощью BERT](https://github.com/serkurakin/toxic_comments__BERT)** —  EDA, BERT, ML-pipeline, XGBoost.
 
 ### 📊 Data Analysis
 *   **[Исследование объявлений о продаже квартир](https://github.com/serkurakin/sale_apartments)** — Исследовательский анализ данных.
