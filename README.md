@@ -1,5 +1,5 @@
 
-# Hi, I'm Sergei | Data Scientist / ML Engineer
+# Hi, I'm Sergei
 
 Data Scientist with 5+ years of experience in fundamental physics and the analysis of complex experimental data from megascience facilities. Over the past year, I have focused on applying Machine Learning and Deep Learning methods to automate research tasks and build predictive models.
 
@@ -31,7 +31,7 @@ Data Scientist with 5+ years of experience in fundamental physics and the analys
 *   **[Прогнозирование заказов такси](https://github.com/serkurakin/taxi_orders__timeseries)** — Временные ряды, ML-пайплайн, LightGBM.
 *   **[Определение покупательской активности клиентов интернет-магазина](https://github.com/serkurakin/online_store)** — EDA, ML-пайплайн, SHAP. 
 
-### 🧠 Deep Learning (Tabular / Sequential)
+### 🧠 Deep Learning
 *   **[Нейронная сеть для определения структуры нанообъектов по экспериментальным данным](https://github.com/serkurakin/Membrane-thickness-prediction-ANN)** — EDA, генератор, полносвязная нейронная сеть (TensorFlow), фитирование данных.
 *   **[Нейронная сеть для определения геометрической формы нанообъектов по экспериментальным данным](https://github.com/serkurakin/shapes_determination_CNN)** — EDA, генератор, CNN (TensorFlow).
 
