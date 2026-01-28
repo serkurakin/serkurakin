@@ -1,7 +1,7 @@
 
 ## Hi! My name is Sergei Kurakin
 
-Data Scientist with 5+ years of experience in fundamental physics and the analysis of complex experimental data from megascience facilities. Over the past year, I have focused on applying Machine Learning and Deep Learning methods to automate research tasks and build predictive models.
+
 
 ---
 
